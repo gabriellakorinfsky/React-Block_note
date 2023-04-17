@@ -7,9 +7,9 @@
 
 <h4>Uso em tópicos:</h4>
 <ul>
-  <li>- Clicar no botão localizado na head</li>
-  <li>- Aparecerá uma caixa de texto</li>
-  <li>- Escreva as tarefas que precisa</li>
-  <li>- Salve no botão "SAVE"</li>
-  <li>- Suas tarefas foram adicionadas</li>
+  <li> Clicar no botão localizado na head</li>
+  <li> Aparecerá uma caixa de texto</li>
+  <li> Escreva as tarefas que precisa</li>
+  <li> Salve no botão "SAVE"</li>
+  <li> Suas tarefas foram adicionadas</li>
 </ul>
